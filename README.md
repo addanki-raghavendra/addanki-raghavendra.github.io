@@ -1,2 +1,0 @@
-# Addanki-Raghavendra
-Portfolio webpage
