@@ -1,3 +1,3 @@
-# Shashank Srikant
+# Addanki Raghavendra
 
-Shashank Srikant - homepage.
+Portfolio webpage
